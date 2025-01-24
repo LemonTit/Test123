@@ -1,0 +1,615 @@
+[
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 4.5,
+            "size_over_all": {
+                "ok": 2,
+                "big": 0,
+                "small": 0,
+                "all_size": 2
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 1,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 1,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 4.63,
+            "size_over_all": {
+                "ok": 8,
+                "big": 0,
+                "small": 0,
+                "all_size": 8
+            },
+            "data": [
+                {
+                    "review_id": "3867153",
+                    "nickname": "A***i",
+                    "rate_overall": "5",
+                    "date": "Nov. 19, 2024",
+                    "imgs": [
+                        {
+                            "originPic": "https://review.zafcdn.com/upload/zaful/review/20241119/A2D9359E1D89096D99D18226BC9D6D6B.jpg",
+                            "bigPic": "https://review.zafcdn.com/upload/zaful/review/20241119/A2D9359E1D89096D99D18226BC9D6D6B_640-426.jpg",
+                            "smallPic": "https://review.zafcdn.com/upload/zaful/review/20241119/thumb/A2D9359E1D89096D99D18226BC9D6D6B_thumb.jpg"
+                        },
+                        {
+                            "originPic": "https://review.zafcdn.com/upload/zaful/review/20241119/BC72A0248723B72B3BB881346B36C97A.jpg",
+                            "bigPic": "https://review.zafcdn.com/upload/zaful/review/20241119/BC72A0248723B72B3BB881346B36C97A_640-426.jpg",
+                            "smallPic": "https://review.zafcdn.com/upload/zaful/review/20241119/thumb/BC72A0248723B72B3BB881346B36C97A_thumb.jpg"
+                        },
+                        {
+                            "originPic": "https://review.zafcdn.com/upload/zaful/review/20241119/359BE942C55F03FA9206A7890D0F45E8.jpg",
+                            "bigPic": "https://review.zafcdn.com/upload/zaful/review/20241119/359BE942C55F03FA9206A7890D0F45E8_640-961.jpg",
+                            "smallPic": "https://review.zafcdn.com/upload/zaful/review/20241119/thumb/359BE942C55F03FA9206A7890D0F45E8_thumb.jpg"
+                        }
+                    ],
+                    "content": "The half zip is extremely breathable, I felt very comfortable wearing it in the summer and fall aswell. The fit is also perfect, usually clothing doesn’t fall over my shoulders right but this piece was perfect . Looks exaclty like the pictures aswell",
+                    "parent_review_content": "",
+                    "reply": [],
+                    "avatar": "https://review.zafcdn.com/upload/imagecache/ZF/default-avatar.png",
+                    "review_size": {
+                        "user_id": "57821295",
+                        "goods_id": "1302789",
+                        "goods_sku": "513368802",
+                        "weight": "0",
+                        "shape": "0",
+                        "height": "170CM \\ 5' 7\"",
+                        "bust": "32AA",
+                        "overall": "0",
+                        "is_save": "1",
+                        "typical_size": "0",
+                        "waist": "73CM \\ 28.7\"",
+                        "hips": ""
+                    },
+                    "attr_strs": "Color:LIGHT COFFEE/Size:M",
+                    "goods_title": ""
+                },
+                {
+                    "review_id": "3866368",
+                    "nickname": "K***x",
+                    "rate_overall": "5",
+                    "date": "Sep. 27, 2024",
+                    "imgs": [],
+                    "content": "I could not be more pleased with this purchase. This top is awesome",
+                    "parent_review_content": "",
+                    "reply": [],
+                    "avatar": "https://review.zafcdn.com/upload/zaful/avatar/20191023/C9AC4CDC2AD22EE16BDCDF1AA6142BE1.jpg",
+                    "review_size": {
+                        "user_id": "1266672",
+                        "goods_id": "1302789",
+                        "goods_sku": "513368802",
+                        "weight": "0",
+                        "shape": "0",
+                        "height": "",
+                        "bust": "",
+                        "overall": "0",
+                        "is_save": "0",
+                        "typical_size": "0",
+                        "waist": "",
+                        "hips": ""
+                    },
+                    "attr_strs": "Color:LIGHT COFFEE/Size:M",
+                    "goods_title": ""
+                },
+                {
+                    "review_id": "3865936",
+                    "nickname": "B***m",
+                    "rate_overall": "4",
+                    "date": "Sep. 08, 2024",
+                    "imgs": [],
+                    "content": "Cool design! I like it and got compliments wearing it",
+                    "parent_review_content": "",
+                    "reply": [],
+                    "avatar": "https://review.zafcdn.com/upload/zaful/avatar/20191023/C9AC4CDC2AD22EE16BDCDF1AA6142BE1.jpg",
+                    "review_size": {
+                        "user_id": "1266672",
+                        "goods_id": "1302792",
+                        "goods_sku": "513368805",
+                        "weight": "0",
+                        "shape": "0",
+                        "height": "",
+                        "bust": "",
+                        "overall": "0",
+                        "is_save": "0",
+                        "typical_size": "0",
+                        "waist": "",
+                        "hips": ""
+                    },
+                    "attr_strs": "Color:LIGHT COFFEE/Size:XXL",
+                    "goods_title": ""
+                },
+                {
+                    "review_id": "3866070",
+                    "nickname": "P***a",
+                    "rate_overall": "5",
+                    "date": "Sep. 16, 2024",
+                    "imgs": [],
+                    "content": "Comfortable hoodie with an excellent cut.",
+                    "parent_review_content": "",
+                    "reply": [],
+                    "avatar": "https://review.zafcdn.com/upload/zaful/avatar/20191023/C9AC4CDC2AD22EE16BDCDF1AA6142BE1.jpg",
+                    "review_size": {
+                        "user_id": "1266672",
+                        "goods_id": "1302790",
+                        "goods_sku": "513368803",
+                        "weight": "0",
+                        "shape": "0",
+                        "height": "",
+                        "bust": "",
+                        "overall": "0",
+                        "is_save": "0",
+                        "typical_size": "0",
+                        "waist": "",
+                        "hips": ""
+                    },
+                    "attr_strs": "Color:LIGHT COFFEE/Size:L",
+                    "goods_title": ""
+                },
+                {
+                    "review_id": "3865625",
+                    "nickname": "L***a",
+                    "rate_overall": "4",
+                    "date": "Sep. 01, 2024",
+                    "imgs": [],
+                    "content": "Perfect for All-Day Comfort and Warmth.",
+                    "parent_review_content": "",
+                    "reply": [],
+                    "avatar": "https://review.zafcdn.com/upload/zaful/avatar/20191023/C9AC4CDC2AD22EE16BDCDF1AA6142BE1.jpg",
+                    "review_size": {
+                        "user_id": "1266672",
+                        "goods_id": "1302790",
+                        "goods_sku": "513368803",
+                        "weight": "0",
+                        "shape": "0",
+                        "height": "",
+                        "bust": "",
+                        "overall": "0",
+                        "is_save": "0",
+                        "typical_size": "0",
+                        "waist": "",
+                        "hips": ""
+                    },
+                    "attr_strs": "Color:LIGHT COFFEE/Size:L",
+                    "goods_title": ""
+                },
+                {
+                    "review_id": "3865526",
+                    "nickname": "J***r",
+                    "rate_overall": "4",
+                    "date": "Aug. 15, 2024",
+                    "imgs": [],
+                    "content": "These sweatshirts are the perfect fit.",
+                    "parent_review_content": "",
+                    "reply": [],
+                    "avatar": "https://review.zafcdn.com/upload/zaful/avatar/20191023/C9AC4CDC2AD22EE16BDCDF1AA6142BE1.jpg",
+                    "review_size": {
+                        "user_id": "1266672",
+                        "goods_id": "1302789",
+                        "goods_sku": "513368802",
+                        "weight": "0",
+                        "shape": "0",
+                        "height": "",
+                        "bust": "",
+                        "overall": "0",
+                        "is_save": "0",
+                        "typical_size": "0",
+                        "waist": "",
+                        "hips": ""
+                    },
+                    "attr_strs": "Color:LIGHT COFFEE/Size:M",
+                    "goods_title": ""
+                },
+                {
+                    "review_id": "3866354",
+                    "nickname": "A***a",
+                    "rate_overall": "5",
+                    "date": "Oct. 13, 2024",
+                    "imgs": [],
+                    "content": "Great fit and true to size.",
+                    "parent_review_content": "",
+                    "reply": [],
+                    "avatar": "https://review.zafcdn.com/upload/zaful/avatar/20191023/C9AC4CDC2AD22EE16BDCDF1AA6142BE1.jpg",
+                    "review_size": {
+                        "user_id": "1266672",
+                        "goods_id": "1302791",
+                        "goods_sku": "513368804",
+                        "weight": "0",
+                        "shape": "0",
+                        "height": "",
+                        "bust": "",
+                        "overall": "0",
+                        "is_save": "0",
+                        "typical_size": "0",
+                        "waist": "",
+                        "hips": ""
+                    },
+                    "attr_strs": "Color:LIGHT COFFEE/Size:XL",
+                    "goods_title": ""
+                },
+                {
+                    "review_id": "3866048",
+                    "nickname": "A***n",
+                    "rate_overall": "5",
+                    "date": "Sep. 23, 2024",
+                    "imgs": [],
+                    "content": "Super cute.",
+                    "parent_review_content": "",
+                    "reply": [],
+                    "avatar": "https://review.zafcdn.com/upload/zaful/avatar/20191023/C9AC4CDC2AD22EE16BDCDF1AA6142BE1.jpg",
+                    "review_size": {
+                        "user_id": "1266672",
+                        "goods_id": "1302790",
+                        "goods_sku": "513368803",
+                        "weight": "0",
+                        "shape": "0",
+                        "height": "",
+                        "bust": "",
+                        "overall": "0",
+                        "is_save": "0",
+                        "typical_size": "0",
+                        "waist": "",
+                        "hips": ""
+                    },
+                    "attr_strs": "Color:LIGHT COFFEE/Size:L",
+                    "goods_title": ""
+                }
+            ]
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 5,
+            "size_over_all": {
+                "ok": 1,
+                "big": 0,
+                "small": 0,
+                "all_size": 1
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 5,
+            "size_over_all": {
+                "ok": 2,
+                "big": 0,
+                "small": 0,
+                "all_size": 2
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    }
+]
