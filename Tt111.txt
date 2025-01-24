@@ -1,0 +1,1697 @@
+{
+    "saveId": "13792294",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg?w={width}&h={height}&s=1",
+            "name": "Chih H",
+            "home_town": null,
+            "contribution_count": "138 contributions",
+            "title": "A few quirks can be detracting, but still a 5-bubble stay, esp. if you have elite status or can score a larger room",
+            "content": "My wife and I booked the Duxton for a 1-night staycation.  (Note #1 to Bonvoy members:  The basic room (\"Shophouse\") was going for 44k points and the Duxton Duplex was going for 65.8k points.  I booked the Shophouse, regularly priced at USD $286 for my night, with a 35k FNA and 9k extra points.)<br /><br />A couple nights before my stay, due to my elite status (Titanium), I was upgraded automatically to the Duxton Duplex King room, which included club lounge access: a USD $410 room.  So far so good.<br /><br />To get to this hotel, my wife and I took the MRT to Maxwell Station.  Then you basically just take Exit #3 and you'll see Duxton Road right across the street.  Total walking time from Maxwell Station to the hotel is about 2 minutes.<br /><br />We arrived at around 11:15am and were told that our room wasn't ready.  No problem.  We were traveling very light, and decided to get lunch.  When our room was ready, around 12:30pm, they sent me a whatsapp message.  Check-in was easy.  (This hotel is an Autograph hotel but has been under the Bonvoy name for a few years now, so operations has worked out the kinks.)<br /><br />(Note #2 to Bonvoy members: If you're Platinum, Titanium, or Ambassador, you'll get breakfast for free, for you and +1.  Then you can also choose between 1000 points or 2 cocktails per night.  We took the 2 cocktails.  Finally, you also get club lounge access for free.)<br /><br />This hotel has 49 rooms of varying size and layout.  It's an elegantly dark hotel.  But I think the first small surprise that hits you, when you first arrive, is that the whole hotel is a tiny bit musty.  Some blogs mentioned that the elevator is musty, but I found the whole hotel to be a bit musty, including my room.  After 5-10 minutes, when your nose gets used to it, it's not really as noticeable anymore.  (Another surprise that you might encounter, is that there are chickens sometimes hanging out in front of the main door.  The staff said that they are there to eat insects, and are assigned there by the government.  Not sure whether I misinterpreted that explanation from them, haha.)<br /><br />The elevator is slow, but the hotel has a sign inside that it cannot be renovated because the hotel is a historical site.  (The sign also said that JFK Jr and Darryl Hannah used this exact elevator when they were dating and visited Singapore.)  Anyways, the hotel is only 3 floors, so it's not a big deal.<br /><br />The layout of the Duxton Duplex can be found online on the Marriott website.  I think the only thing left a bit vague is the bathroom situation.  There's another review here on Tripadvisor remarking that the shower is not well-partitioned from the rest of the bathroom.  True.  Make sure to put the bathroom mat in front of the sink, to reduce the sloppiness of the water during the shower.  While the bathroom has a door, the WC inside does not.  Basically, when somebody is using the WC, it is pretty awkward if somebody wants to open the bathroom door to come in to brush their teeth or use the shower.  You've been warned.  :-)<br /><br />(Also take note that, obviously, if you have mobility problems, you'll probably not want the Duxton Duplex.  Those stairs can be a bit tough/hazardous to navigate for perfectly able-bodied people already (esp. at night: the stairs are painted a 'midnight black' color), much less to say those who are elderly or have bad balance.)<br /><br />The club lounge is actually a lounge bar called Anoushka's, actually open to the public.  So, in that sense, it's not really a club lounge.  If you are plat or above, or your booking includes club lounge access, basically that means that you get some free stuff during every day of your stay.  From 11-3pm, you get 3 \"small bites\", and from 5-8pm, you get another 3 \"small bites\" + 3 drinks.  Your +1 gets the same freebies.  The free drink options include coffees, soft drinks, negroni, and hard liquors.  To me, that package, considering the quality of the food and the ambiance, is reasonably rated at USD $100 per person if you went for the liquors.  If there are two of you staying in the room, that's a USD $200 value per night. (!)  (Of course, these are a la carte prices, compared to, say, a lounge buffet with alcohol, so you can do your own math, hehe.)<br /><br />This hotel has no gym or pool, but as the front desk explains it to you, you'll have access to the gym and pool at the Maxwell about 1-2 blocks away.<br /><br />Let's talk about breakfast the next morning.  There's no buffet here.  You'll get 2 selections from the menu, plus a juice and a coffee of your choice.  I'll keep it real for you:  it's not a lot of food.  We went down at around 9am, and there were only a few others eating around us.  I ended up getting a crab omelette and a fruit plate; and then orange juice and coffee.  My wife got basically the same, except two pieces of sourdough bread instead of the omelette.  We're OK with eating light during our travels, so it wasn't so bad.  But if you're looking to pig out on a breakfast buffet, this hotel will disappoint you.<br /><br />The hotel is in a very good location though, also for staycationers.  Just a block away from Koreatown, and a block in a slightly different direction from Chinatown and Maxwell Hawker Center.  We had a good time having a light afternoon meal and coffee at The Populus, and then a lunch the following day at Xiao Ya Tou (a tad bit pricey, but good flavors and just around the corner from the hotel: best to visit in a group of 3-4).<br /><br />The staff is not super-smiley, but they are polite and seem kind-hearted.  The doormen are all too willing to help you with the door and fetch an umbrella for you when it's raining.  Trust me, super-smiley doesn't really work at this hotel, with its dark elegant kind of vibe.  If you're an introvert and are super-sensitive to fake smiles and sickly-sweet demeanor, you'll appreciate this hotel even more.<br /><br />This hotel doesn't score so well on the Bonvoy website (only around a 3.7/5.0).  It scores better on Tripadvisor (a 4.5/5.0).  I feel that this hotel is best, the more that you are OK/looking for the following:  (i) You have visited Singapore before, but you are looking for something outside of Orchard Road; (ii) you want easy access to the MRT and good food (esp. Korean food); (iii) you don't really need a pool/gym in your building; (iv) you're tired of fighting the crowds on your vacations/staycations; (v) you are looking for helpful but not so smiley staff; and (vi) if you're platinum or above in the Bonvoy program.",
+            "date": "Written 01/12/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8b/5f/b1/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8b/5f/b2/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/99/default-avatar-2020-40.jpg?w={width}&h={height}&s=1",
+            "name": "Brandon T",
+            "home_town": null,
+            "contribution_count": "4 contributions",
+            "title": "Bait and Switch",
+            "content": "This hotel is in a great location. But service is sorely lacking. I reserved this room under a special promotion rate through the Marriott Bonvoy app … but the hotel declined to honor the promotion. Spent a lot of time on the phone with Marriott service and emailing documentation to the hotel.<br /><br />The shower in my room was also very poorly designed- glass divider was too short so water got all over the place. Also the bellmen seem to only work part-time. The front desk staff ended up having to help us with our bags .. and we were left yo carry the bags ourselves down the front steps of the hotel during check-out.<br /><br />I’ve never experienced anything like this at a “5 Star”. Hotel. Very disappointing experience - steer clear if you can.",
+            "date": "Written 01/08/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/e3/default-avatar-2020-59.jpg?w={width}&h={height}&s=1",
+            "name": "Pei C",
+            "home_town": null,
+            "contribution_count": "4 contributions",
+            "title": "Amazing experience!",
+            "content": "I had such a wonderful experience staying at this hotel! From the moment I walked in, the staff was incredibly welcoming and went out of their way to make me feel at home. The service was top-notch, and they truly paid attention to every little detail.<br /><br />The hotel is on a beautiful historical site, which gives it so much character. The blend of history and modern comfort creates such a unique vibe, and the ambiance is amazing—peaceful, elegant, and relaxing. Because it’s a historic building, the rooms are a bit on the smaller side, but honestly, it just adds to the charm and coziness.<br /><br />Everything was super clean, from the rooms to the common areas. You can tell they really care about keeping the place spotless, which made my stay even more comfortable.<br /><br />The location is absolutely perfect. It’s super close to Marina Bay Sands (MBS) and surrounded by so many fun attractions, bars, and restaurants. It’s a great area to explore and enjoy everything the city has to offer.<br /><br />On top of all that, the whole area felt very safe, so I never had to worry, even when I was out late.<br /><br />Overall, this hotel has amazing service, great vibes, and the perfect location. I loved my stay and would definitely come back!",
+            "date": "Written 01/07/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/83/72/2b/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/83/72/2c/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        }
+    ]
+}
+
+{
+    "saveId": "20302005",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg?w={width}&h={height}&s=1",
+            "name": "Getaway67934084336",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Safe and peaceful hotel ever",
+            "content": "Room are very clean and neatly done. Staff are all very friendly and professional. Special thanks to Jaypee for rendering help in our check in smoothly and getting us a great view room. Breakfast has a wide spread of local food for sure all age can enjoy. Highly recommended !",
+            "date": "Written 01/19/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/88/44/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg?w={width}&h={height}&s=1",
+            "name": "Jennifer K",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Amazing",
+            "content": "Great hospitality at Dusit Thani Laguna Singapore! A lot of activities as well in the hotel. Very friendly staff and especially great services from Nanda!<br />Also very convenient that the hotel is nearby the airport which makes it a great place if you have an stopover in Singapore.",
+            "date": "Written 01/12/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5d/19/32/dreamliner-m.jpg?w={width}&h={height}&s=1",
+            "name": "Dreamliner M",
+            "home_town": null,
+            "contribution_count": "9 contributions",
+            "title": "Thankyou Nanda",
+            "content": "meet mr Nanda at bell captain! The best one in the world! Always avalisable to help me, always a smile!<br />Proid to meet him<br />Thankyou for everything<br />Room new and with all amenities<br />Enormous pool<br />Breakfast room gorgeous<br />Food variety was good and service attentive<br />Tranfer to city center i a plus",
+            "date": "Written 01/11/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "301583",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg?w={width}&h={height}&s=1",
+            "name": "charlotte",
+            "home_town": "Sedona, AZ",
+            "contribution_count": "61 contributions",
+            "title": "A step back in time",
+            "content": "Raffles is legendary and for a reason. It’s worth a visit just for the architecture and gardens but my husband and I visited the Long Bar for a Singapore Sling and the atmosphere. Reservations aren’t taken for the Long Bar and we weren’t dressed formally enough for high tea. The drinks were great but the vibe was what made it worth it.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/e0/f2/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7a/f4/48/kevev.jpg?w={width}&h={height}&s=1",
+            "name": "KevEv",
+            "home_town": "Kingston-upon-Hull, UK",
+            "contribution_count": "71 contributions",
+            "title": "The Long Bar is a fabulous experience.",
+            "content": "We were lucky enough to get a table for four in Raffles with just a 3 minute wait. When we left they were queuing all the way to the staircase. You can tell by the queues how popular this place is. It didn’t disappoint. First class service and a first class atmosphere, including the peanut shell covered floors. Traditional Singapore Slings, for the girls and a Tiger beer for our son and myself. It’s pricey of course, but it’s worth it to take in the character of such an iconic place like the Long Bar with all irs history. It’s taken me a while to get in there after so many visits to Singapore, but I’m glad I did. A thoroughly enjoyable experience.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/db/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dc/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dd/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/de/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/df/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg?w={width}&h={height}&s=1",
+            "name": "Dominik M",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Great hospitality from Balwinder - awesome experience!",
+            "content": "Had an amazing experience here! Shoutout to Balwinder – he was super helpful and friendly. He personally escorted me to the Long Bar when I asked for directions and even gave me a quick rundown of the hotel’s history, which was a nice touch.<br /><br />Tried the Singapore Sling, and honestly, it was worth the hype and the price – really enjoyed it. We even clicked a photo together afterward, which made the visit extra memorable. He also assisted me in getting a taxi to my destination. The overall vibe, the ambience, and the staff’s attitude were all top-notch. Definitely recommend stopping by if you’re in Singapore!",
+            "date": "Written 01/19/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "20302005",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg?w={width}&h={height}&s=1",
+            "name": "Getaway67934084336",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Safe and peaceful hotel ever",
+            "content": "Room are very clean and neatly done. Staff are all very friendly and professional. Special thanks to Jaypee for rendering help in our check in smoothly and getting us a great view room. Breakfast has a wide spread of local food for sure all age can enjoy. Highly recommended !",
+            "date": "Written 01/19/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/88/44/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg?w={width}&h={height}&s=1",
+            "name": "Jennifer K",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Amazing",
+            "content": "Great hospitality at Dusit Thani Laguna Singapore! A lot of activities as well in the hotel. Very friendly staff and especially great services from Nanda!<br />Also very convenient that the hotel is nearby the airport which makes it a great place if you have an stopover in Singapore.",
+            "date": "Written 01/12/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5d/19/32/dreamliner-m.jpg?w={width}&h={height}&s=1",
+            "name": "Dreamliner M",
+            "home_town": null,
+            "contribution_count": "9 contributions",
+            "title": "Thankyou Nanda",
+            "content": "meet mr Nanda at bell captain! The best one in the world! Always avalisable to help me, always a smile!<br />Proid to meet him<br />Thankyou for everything<br />Room new and with all amenities<br />Enormous pool<br />Breakfast room gorgeous<br />Food variety was good and service attentive<br />Tranfer to city center i a plus",
+            "date": "Written 01/11/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "20302005",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg?w={width}&h={height}&s=1",
+            "name": "Getaway67934084336",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Safe and peaceful hotel ever",
+            "content": "Room are very clean and neatly done. Staff are all very friendly and professional. Special thanks to Jaypee for rendering help in our check in smoothly and getting us a great view room. Breakfast has a wide spread of local food for sure all age can enjoy. Highly recommended !",
+            "date": "Written 01/19/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/88/44/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg?w={width}&h={height}&s=1",
+            "name": "Jennifer K",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Amazing",
+            "content": "Great hospitality at Dusit Thani Laguna Singapore! A lot of activities as well in the hotel. Very friendly staff and especially great services from Nanda!<br />Also very convenient that the hotel is nearby the airport which makes it a great place if you have an stopover in Singapore.",
+            "date": "Written 01/12/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5d/19/32/dreamliner-m.jpg?w={width}&h={height}&s=1",
+            "name": "Dreamliner M",
+            "home_town": null,
+            "contribution_count": "9 contributions",
+            "title": "Thankyou Nanda",
+            "content": "meet mr Nanda at bell captain! The best one in the world! Always avalisable to help me, always a smile!<br />Proid to meet him<br />Thankyou for everything<br />Room new and with all amenities<br />Enormous pool<br />Breakfast room gorgeous<br />Food variety was good and service attentive<br />Tranfer to city center i a plus",
+            "date": "Written 01/11/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "13792294",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg?w={width}&h={height}&s=1",
+            "name": "Chih H",
+            "home_town": null,
+            "contribution_count": "138 contributions",
+            "title": "A few quirks can be detracting, but still a 5-bubble stay, esp. if you have elite status or can score a larger room",
+            "content": "My wife and I booked the Duxton for a 1-night staycation.  (Note #1 to Bonvoy members:  The basic room (\"Shophouse\") was going for 44k points and the Duxton Duplex was going for 65.8k points.  I booked the Shophouse, regularly priced at USD $286 for my night, with a 35k FNA and 9k extra points.)<br /><br />A couple nights before my stay, due to my elite status (Titanium), I was upgraded automatically to the Duxton Duplex King room, which included club lounge access: a USD $410 room.  So far so good.<br /><br />To get to this hotel, my wife and I took the MRT to Maxwell Station.  Then you basically just take Exit #3 and you'll see Duxton Road right across the street.  Total walking time from Maxwell Station to the hotel is about 2 minutes.<br /><br />We arrived at around 11:15am and were told that our room wasn't ready.  No problem.  We were traveling very light, and decided to get lunch.  When our room was ready, around 12:30pm, they sent me a whatsapp message.  Check-in was easy.  (This hotel is an Autograph hotel but has been under the Bonvoy name for a few years now, so operations has worked out the kinks.)<br /><br />(Note #2 to Bonvoy members: If you're Platinum, Titanium, or Ambassador, you'll get breakfast for free, for you and +1.  Then you can also choose between 1000 points or 2 cocktails per night.  We took the 2 cocktails.  Finally, you also get club lounge access for free.)<br /><br />This hotel has 49 rooms of varying size and layout.  It's an elegantly dark hotel.  But I think the first small surprise that hits you, when you first arrive, is that the whole hotel is a tiny bit musty.  Some blogs mentioned that the elevator is musty, but I found the whole hotel to be a bit musty, including my room.  After 5-10 minutes, when your nose gets used to it, it's not really as noticeable anymore.  (Another surprise that you might encounter, is that there are chickens sometimes hanging out in front of the main door.  The staff said that they are there to eat insects, and are assigned there by the government.  Not sure whether I misinterpreted that explanation from them, haha.)<br /><br />The elevator is slow, but the hotel has a sign inside that it cannot be renovated because the hotel is a historical site.  (The sign also said that JFK Jr and Darryl Hannah used this exact elevator when they were dating and visited Singapore.)  Anyways, the hotel is only 3 floors, so it's not a big deal.<br /><br />The layout of the Duxton Duplex can be found online on the Marriott website.  I think the only thing left a bit vague is the bathroom situation.  There's another review here on Tripadvisor remarking that the shower is not well-partitioned from the rest of the bathroom.  True.  Make sure to put the bathroom mat in front of the sink, to reduce the sloppiness of the water during the shower.  While the bathroom has a door, the WC inside does not.  Basically, when somebody is using the WC, it is pretty awkward if somebody wants to open the bathroom door to come in to brush their teeth or use the shower.  You've been warned.  :-)<br /><br />(Also take note that, obviously, if you have mobility problems, you'll probably not want the Duxton Duplex.  Those stairs can be a bit tough/hazardous to navigate for perfectly able-bodied people already (esp. at night: the stairs are painted a 'midnight black' color), much less to say those who are elderly or have bad balance.)<br /><br />The club lounge is actually a lounge bar called Anoushka's, actually open to the public.  So, in that sense, it's not really a club lounge.  If you are plat or above, or your booking includes club lounge access, basically that means that you get some free stuff during every day of your stay.  From 11-3pm, you get 3 \"small bites\", and from 5-8pm, you get another 3 \"small bites\" + 3 drinks.  Your +1 gets the same freebies.  The free drink options include coffees, soft drinks, negroni, and hard liquors.  To me, that package, considering the quality of the food and the ambiance, is reasonably rated at USD $100 per person if you went for the liquors.  If there are two of you staying in the room, that's a USD $200 value per night. (!)  (Of course, these are a la carte prices, compared to, say, a lounge buffet with alcohol, so you can do your own math, hehe.)<br /><br />This hotel has no gym or pool, but as the front desk explains it to you, you'll have access to the gym and pool at the Maxwell about 1-2 blocks away.<br /><br />Let's talk about breakfast the next morning.  There's no buffet here.  You'll get 2 selections from the menu, plus a juice and a coffee of your choice.  I'll keep it real for you:  it's not a lot of food.  We went down at around 9am, and there were only a few others eating around us.  I ended up getting a crab omelette and a fruit plate; and then orange juice and coffee.  My wife got basically the same, except two pieces of sourdough bread instead of the omelette.  We're OK with eating light during our travels, so it wasn't so bad.  But if you're looking to pig out on a breakfast buffet, this hotel will disappoint you.<br /><br />The hotel is in a very good location though, also for staycationers.  Just a block away from Koreatown, and a block in a slightly different direction from Chinatown and Maxwell Hawker Center.  We had a good time having a light afternoon meal and coffee at The Populus, and then a lunch the following day at Xiao Ya Tou (a tad bit pricey, but good flavors and just around the corner from the hotel: best to visit in a group of 3-4).<br /><br />The staff is not super-smiley, but they are polite and seem kind-hearted.  The doormen are all too willing to help you with the door and fetch an umbrella for you when it's raining.  Trust me, super-smiley doesn't really work at this hotel, with its dark elegant kind of vibe.  If you're an introvert and are super-sensitive to fake smiles and sickly-sweet demeanor, you'll appreciate this hotel even more.<br /><br />This hotel doesn't score so well on the Bonvoy website (only around a 3.7/5.0).  It scores better on Tripadvisor (a 4.5/5.0).  I feel that this hotel is best, the more that you are OK/looking for the following:  (i) You have visited Singapore before, but you are looking for something outside of Orchard Road; (ii) you want easy access to the MRT and good food (esp. Korean food); (iii) you don't really need a pool/gym in your building; (iv) you're tired of fighting the crowds on your vacations/staycations; (v) you are looking for helpful but not so smiley staff; and (vi) if you're platinum or above in the Bonvoy program.",
+            "date": "Written 01/12/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8b/5f/b1/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8b/5f/b2/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/99/default-avatar-2020-40.jpg?w={width}&h={height}&s=1",
+            "name": "Brandon T",
+            "home_town": null,
+            "contribution_count": "4 contributions",
+            "title": "Bait and Switch",
+            "content": "This hotel is in a great location. But service is sorely lacking. I reserved this room under a special promotion rate through the Marriott Bonvoy app … but the hotel declined to honor the promotion. Spent a lot of time on the phone with Marriott service and emailing documentation to the hotel.<br /><br />The shower in my room was also very poorly designed- glass divider was too short so water got all over the place. Also the bellmen seem to only work part-time. The front desk staff ended up having to help us with our bags .. and we were left yo carry the bags ourselves down the front steps of the hotel during check-out.<br /><br />I’ve never experienced anything like this at a “5 Star”. Hotel. Very disappointing experience - steer clear if you can.",
+            "date": "Written 01/08/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/e3/default-avatar-2020-59.jpg?w={width}&h={height}&s=1",
+            "name": "Pei C",
+            "home_town": null,
+            "contribution_count": "4 contributions",
+            "title": "Amazing experience!",
+            "content": "I had such a wonderful experience staying at this hotel! From the moment I walked in, the staff was incredibly welcoming and went out of their way to make me feel at home. The service was top-notch, and they truly paid attention to every little detail.<br /><br />The hotel is on a beautiful historical site, which gives it so much character. The blend of history and modern comfort creates such a unique vibe, and the ambiance is amazing—peaceful, elegant, and relaxing. Because it’s a historic building, the rooms are a bit on the smaller side, but honestly, it just adds to the charm and coziness.<br /><br />Everything was super clean, from the rooms to the common areas. You can tell they really care about keeping the place spotless, which made my stay even more comfortable.<br /><br />The location is absolutely perfect. It’s super close to Marina Bay Sands (MBS) and surrounded by so many fun attractions, bars, and restaurants. It’s a great area to explore and enjoy everything the city has to offer.<br /><br />On top of all that, the whole area felt very safe, so I never had to worry, even when I was out late.<br /><br />Overall, this hotel has amazing service, great vibes, and the perfect location. I loved my stay and would definitely come back!",
+            "date": "Written 01/07/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/83/72/2b/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/83/72/2c/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        }
+    ]
+}
+
+{
+    "saveId": "4341475",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/24/8f/19/katie-b.jpg?w={width}&h={height}&s=1",
+            "name": "Katie B",
+            "home_town": "London, UK",
+            "contribution_count": "16 contributions",
+            "title": "Complete care",
+            "content": "From the moment we arrived at reception, we received fantastic care from the Amoy team. They made us feel so welcome in a new city.<br /><br />The room was spacious and comfortable, with everything we needed. There was some noise from the street below, but it was almost like white noise rather than individual sounds, and we had no trouble sleeping through it (jetlag may have played a role there).<br /><br />We really enjoyed the location. MRT stations are an easy walk away, and there are plenty of places to eat. The breakfast deal with Genius Central was simple and the food was delicious. Thank you very much to everyone at Amoy Hotel!",
+            "date": "Written 01/24/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/38/19/16/rosicee.jpg?w={width}&h={height}&s=1",
+            "name": "rosicee",
+            "home_town": "Woking, UK",
+            "contribution_count": "14 contributions",
+            "title": "This hotel is a hidden gem in Singapore!",
+            "content": "This hotel was one of the best hotels I’ve ever stayed at. The incredibly friendly and attentive staff were a stand out - they remembered every little thing and were SO unbelievably kind and welcoming (to the extent where they remembered it was my birthday week and presented me with a surprise cake upon check in!). The rooms are fairly small but beautifully decorated, come with great amenities and are relatively quiet, and the location was superb for metro access, restaurants and our new favourite Lau Pa Sat. Breakfast is a choice of two restaurants next door and was also lovely - we’d recommend the smashed avocado toast at Genius Central. Lastly, the hotel itself is gorgeous - it sits within a heritage museum and is such a unique and special building. We feel incredibly lucky to have found such a gem, and will absolutely be returning when we’re next in Singapore. Special shout out to Shei",
+            "date": "Written 09/04/24",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/9c/default-avatar-2020-14.jpg?w={width}&h={height}&s=1",
+            "name": "Matthieu FERRARY",
+            "home_town": null,
+            "contribution_count": "3 contributions",
+            "title": "A wonderful experience",
+            "content": "I was warmfully welcomed by the team, which was very helpful and kind. Everything was great during my one night stay here at AMOY Singapore. I had a very nice room and a great breakfast.<br />The hotel is located very close to the city center which makes it ideal.",
+            "date": "Written 01/22/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "4341475",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/24/8f/19/katie-b.jpg?w={width}&h={height}&s=1",
+            "name": "Katie B",
+            "home_town": "London, UK",
+            "contribution_count": "16 contributions",
+            "title": "Complete care",
+            "content": "From the moment we arrived at reception, we received fantastic care from the Amoy team. They made us feel so welcome in a new city.<br /><br />The room was spacious and comfortable, with everything we needed. There was some noise from the street below, but it was almost like white noise rather than individual sounds, and we had no trouble sleeping through it (jetlag may have played a role there).<br /><br />We really enjoyed the location. MRT stations are an easy walk away, and there are plenty of places to eat. The breakfast deal with Genius Central was simple and the food was delicious. Thank you very much to everyone at Amoy Hotel!",
+            "date": "Written 01/24/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/38/19/16/rosicee.jpg?w={width}&h={height}&s=1",
+            "name": "rosicee",
+            "home_town": "Woking, UK",
+            "contribution_count": "14 contributions",
+            "title": "This hotel is a hidden gem in Singapore!",
+            "content": "This hotel was one of the best hotels I’ve ever stayed at. The incredibly friendly and attentive staff were a stand out - they remembered every little thing and were SO unbelievably kind and welcoming (to the extent where they remembered it was my birthday week and presented me with a surprise cake upon check in!). The rooms are fairly small but beautifully decorated, come with great amenities and are relatively quiet, and the location was superb for metro access, restaurants and our new favourite Lau Pa Sat. Breakfast is a choice of two restaurants next door and was also lovely - we’d recommend the smashed avocado toast at Genius Central. Lastly, the hotel itself is gorgeous - it sits within a heritage museum and is such a unique and special building. We feel incredibly lucky to have found such a gem, and will absolutely be returning when we’re next in Singapore. Special shout out to Shei",
+            "date": "Written 09/04/24",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/9c/default-avatar-2020-14.jpg?w={width}&h={height}&s=1",
+            "name": "Matthieu FERRARY",
+            "home_town": null,
+            "contribution_count": "3 contributions",
+            "title": "A wonderful experience",
+            "content": "I was warmfully welcomed by the team, which was very helpful and kind. Everything was great during my one night stay here at AMOY Singapore. I had a very nice room and a great breakfast.<br />The hotel is located very close to the city center which makes it ideal.",
+            "date": "Written 01/22/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "7964080",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-w/0a/a2/a1/75/the-old-school-seat.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/96/97/64/night.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/96/97/63/night.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-p/08/ba/27/2c/lobby-of-the-golden-mile.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/10/66/ac/c8/20170822-224131-largejpg.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2b/08/2c/d8/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/25/2e/0b/b6/we-have-more-than-200.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/25/2e/0b/b4/in-addition-we-also-have.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/25/2e/0b/b2/our-home-projectors-are.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/25/2e/0b/b1/we-have-a-lot-of-styles.jpg"
+    ],
+    "title": "The Projector",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/ff/37/37/markcarr-12.jpg?w={width}&h={height}&s=1",
+            "name": "mark c",
+            "home_town": "London, UK",
+            "contribution_count": "120 contributions",
+            "title": "Please support this lovely venue",
+            "content": "I have been to many Arts Cinemas and this ranks just as highly as any other, my main concern was that the lack of patrons in the screening meant it had a more underground feel, their programme is very interesting with a good selection of recent films from all over the world but with an emphasis on Asian cinema which I hope will bring in more locals, this seemed like a typical Arts Cinema, we saw a very interesting Chinese film which we discussed at length afterwards, I really hope this place attracts more locals rather than the large cinema chains showing mainly American influences blockbusters",
+            "date": "Written 08/06/24",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/3d/default-avatar-2020-1.jpg?w={width}&h={height}&s=1",
+            "name": "GoPlaces31097841878",
+            "home_town": null,
+            "contribution_count": "2 contributions",
+            "title": "A Very Disappointing Experience",
+            "content": "My wife and I recently had the displeasure of visiting The Projector and left utterly disappointed with the overall experience. The main reason for our discontent was our misunderstanding that the movie had Chinese subtitles as posted online.<br /><br />After a quick Google search, we were happy to find that they were supposedly offering Chinese subtitles for the newly released film, Wonka. I support the venue as a member so The Projector has been our default cinema since 2015 for any and every film. Since my wife’s English is a work in progress, we can only watch films with Chinese subtitles so this prospective feature played a significant role in our decision to choose this venue. However, our enthusiasm quickly turned into frustration when after the film started, we realized it was not subtitled in Chinese but oddly enough in English.<br /><br />I immediately went to the ticket counter and showed them the internet posting which is attached here. Unfortunately, the staff was absolutely indifferent to my concerns, offering no solution other than explaining that internet postings are often wrong and the onus was completely on me to confirm it prior to purchase. Ok. I got it. However, the tickets and movie were completely useless to us. <br /><br />When I asked about a credit or vouchers for another film, I was met with a dismissive attitude. The absence of any effort to rectify the situation was testimony to a generally poor level of customer service and general business acumen. On average, we spend $30-$40 on concessionary items alone per visit so it’s even difficult to justify them making an unemotional business decision. It felt more like spite.<br /><br />A moviegoing experience is not just about the film itself but also the overall service and effort made by the theater to provide their customers with a certain level of satisfaction. The Projector failed on both fronts, displaying a blatant disregard for customer satisfaction. We will probably still have to go there to see the small, independent films we enjoy but you may want to save yourself the potential frustration of dealing with the ticket staff there and consider other, more commercially oriented cinemas for your movie night, especially for major studio releases.<br />",
+            "date": "Written 12/16/23",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/08/2c/d8/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e8/5b/default-avatar-2020-61.jpg?w={width}&h={height}&s=1",
+            "name": "Maite S",
+            "home_town": "Caracas, Venezuela",
+            "contribution_count": "5 contributions",
+            "title": "Best cinema in SGP",
+            "content": "This is the only cinema in Singapore which shows high quality movies. It ussually screens the best pictures from all the regions of the world and a careful selection of the great international festivals. An oasis in SGP for all cinema lovers. Its cinema theaters are not high tech but the quality of its offer worth paying the price. I attend every weekend to its movies.",
+            "date": "Written 10/08/23",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "20302005",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/48/default-avatar-2020-15.jpg?w={width}&h={height}&s=1",
+            "name": "Getaway67934084336",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Safe and peaceful hotel ever",
+            "content": "Room are very clean and neatly done. Staff are all very friendly and professional. Special thanks to Jaypee for rendering help in our check in smoothly and getting us a great view room. Breakfast has a wide spread of local food for sure all age can enjoy. Highly recommended !",
+            "date": "Written 01/19/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/88/44/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/db/default-avatar-2020-10.jpg?w={width}&h={height}&s=1",
+            "name": "Jennifer K",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Amazing",
+            "content": "Great hospitality at Dusit Thani Laguna Singapore! A lot of activities as well in the hotel. Very friendly staff and especially great services from Nanda!<br />Also very convenient that the hotel is nearby the airport which makes it a great place if you have an stopover in Singapore.",
+            "date": "Written 01/12/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5d/19/32/dreamliner-m.jpg?w={width}&h={height}&s=1",
+            "name": "Dreamliner M",
+            "home_town": null,
+            "contribution_count": "9 contributions",
+            "title": "Thankyou Nanda",
+            "content": "meet mr Nanda at bell captain! The best one in the world! Always avalisable to help me, always a smile!<br />Proid to meet him<br />Thankyou for everything<br />Room new and with all amenities<br />Enormous pool<br />Breakfast room gorgeous<br />Food variety was good and service attentive<br />Tranfer to city center i a plus",
+            "date": "Written 01/11/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "301583",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg?w={width}&h={height}&s=1",
+            "name": "charlotte",
+            "home_town": "Sedona, AZ",
+            "contribution_count": "61 contributions",
+            "title": "A step back in time",
+            "content": "Raffles is legendary and for a reason. It’s worth a visit just for the architecture and gardens but my husband and I visited the Long Bar for a Singapore Sling and the atmosphere. Reservations aren’t taken for the Long Bar and we weren’t dressed formally enough for high tea. The drinks were great but the vibe was what made it worth it.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/e0/f2/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7a/f4/48/kevev.jpg?w={width}&h={height}&s=1",
+            "name": "KevEv",
+            "home_town": "Kingston-upon-Hull, UK",
+            "contribution_count": "71 contributions",
+            "title": "The Long Bar is a fabulous experience.",
+            "content": "We were lucky enough to get a table for four in Raffles with just a 3 minute wait. When we left they were queuing all the way to the staircase. You can tell by the queues how popular this place is. It didn’t disappoint. First class service and a first class atmosphere, including the peanut shell covered floors. Traditional Singapore Slings, for the girls and a Tiger beer for our son and myself. It’s pricey of course, but it’s worth it to take in the character of such an iconic place like the Long Bar with all irs history. It’s taken me a while to get in there after so many visits to Singapore, but I’m glad I did. A thoroughly enjoyable experience.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/db/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dc/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dd/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/de/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/df/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg?w={width}&h={height}&s=1",
+            "name": "Dominik M",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Great hospitality from Balwinder - awesome experience!",
+            "content": "Had an amazing experience here! Shoutout to Balwinder – he was super helpful and friendly. He personally escorted me to the Long Bar when I asked for directions and even gave me a quick rundown of the hotel’s history, which was a nice touch.<br /><br />Tried the Singapore Sling, and honestly, it was worth the hype and the price – really enjoyed it. We even clicked a photo together afterward, which made the visit extra memorable. He also assisted me in getting a taxi to my destination. The overall vibe, the ambience, and the staff’s attitude were all top-notch. Definitely recommend stopping by if you’re in Singapore!",
+            "date": "Written 01/19/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "301583",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg?w={width}&h={height}&s=1",
+            "name": "charlotte",
+            "home_town": "Sedona, AZ",
+            "contribution_count": "61 contributions",
+            "title": "A step back in time",
+            "content": "Raffles is legendary and for a reason. It’s worth a visit just for the architecture and gardens but my husband and I visited the Long Bar for a Singapore Sling and the atmosphere. Reservations aren’t taken for the Long Bar and we weren’t dressed formally enough for high tea. The drinks were great but the vibe was what made it worth it.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/e0/f2/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7a/f4/48/kevev.jpg?w={width}&h={height}&s=1",
+            "name": "KevEv",
+            "home_town": "Kingston-upon-Hull, UK",
+            "contribution_count": "71 contributions",
+            "title": "The Long Bar is a fabulous experience.",
+            "content": "We were lucky enough to get a table for four in Raffles with just a 3 minute wait. When we left they were queuing all the way to the staircase. You can tell by the queues how popular this place is. It didn’t disappoint. First class service and a first class atmosphere, including the peanut shell covered floors. Traditional Singapore Slings, for the girls and a Tiger beer for our son and myself. It’s pricey of course, but it’s worth it to take in the character of such an iconic place like the Long Bar with all irs history. It’s taken me a while to get in there after so many visits to Singapore, but I’m glad I did. A thoroughly enjoyable experience.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/db/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dc/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dd/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/de/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/df/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg?w={width}&h={height}&s=1",
+            "name": "Dominik M",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Great hospitality from Balwinder - awesome experience!",
+            "content": "Had an amazing experience here! Shoutout to Balwinder – he was super helpful and friendly. He personally escorted me to the Long Bar when I asked for directions and even gave me a quick rundown of the hotel’s history, which was a nice touch.<br /><br />Tried the Singapore Sling, and honestly, it was worth the hype and the price – really enjoyed it. We even clicked a photo together afterward, which made the visit extra memorable. He also assisted me in getting a taxi to my destination. The overall vibe, the ambience, and the staff’s attitude were all top-notch. Definitely recommend stopping by if you’re in Singapore!",
+            "date": "Written 01/19/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "1307604",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/56/5e/30/harshadpophale.jpg?w={width}&h={height}&s=1",
+            "name": "Harshad Pophale",
+            "home_town": null,
+            "contribution_count": "33 contributions",
+            "title": "One of the best service",
+            "content": "We stayed here for x’mas and received one of the best service ever in this beautiful property. Specially since we were approx 17 people , we have received specially curated Indian menu in breakfast specially prepared for us. Never experienced such things anywhere else. All 5 stars to this hotel in every category including rooms ambience service quality, it’s just too perfect !!",
+            "date": "Written 01/08/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/84/a2/af/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/eb/default-avatar-2020-27.jpg?w={width}&h={height}&s=1",
+            "name": "Mubashir A",
+            "home_town": null,
+            "contribution_count": "6 contributions",
+            "title": "Most Attentive Staff",
+            "content": "Have been to many luxury hotels like this one but it is one of the best in the world for a reason. Their staff, their attention to detail is outstanding. Every small thing which you want in your room was taken care of. 24/7 available and really cooperative staff adds to the experience. Do try their spa as well. Had one of the best treatments there.",
+            "date": "Written 03/04/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/10/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/0e/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/0f/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg?w={width}&h={height}&s=1",
+            "name": "Mercedes D",
+            "home_town": "Tallahassee, FL",
+            "contribution_count": "6 contributions",
+            "title": "Refined Comfort Meets Perfect ServiceOFFICIAL",
+            "content": "What sets this place apart is how they make excellence seem effortless. The rooms are havens of comfort with every amenity thoughtfully placed. The staff moves with quiet efficiency while maintaining a warm, personal touch. The entire property exudes an atmosphere of refined ele",
+            "date": "Written 12/03/24",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "1307604",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/56/5e/30/harshadpophale.jpg?w={width}&h={height}&s=1",
+            "name": "Harshad Pophale",
+            "home_town": null,
+            "contribution_count": "33 contributions",
+            "title": "One of the best service",
+            "content": "We stayed here for x’mas and received one of the best service ever in this beautiful property. Specially since we were approx 17 people , we have received specially curated Indian menu in breakfast specially prepared for us. Never experienced such things anywhere else. All 5 stars to this hotel in every category including rooms ambience service quality, it’s just too perfect !!",
+            "date": "Written 01/08/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/84/a2/af/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/eb/default-avatar-2020-27.jpg?w={width}&h={height}&s=1",
+            "name": "Mubashir A",
+            "home_town": null,
+            "contribution_count": "6 contributions",
+            "title": "Most Attentive Staff",
+            "content": "Have been to many luxury hotels like this one but it is one of the best in the world for a reason. Their staff, their attention to detail is outstanding. Every small thing which you want in your room was taken care of. 24/7 available and really cooperative staff adds to the experience. Do try their spa as well. Had one of the best treatments there.",
+            "date": "Written 03/04/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/10/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/0e/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/0f/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg?w={width}&h={height}&s=1",
+            "name": "Mercedes D",
+            "home_town": "Tallahassee, FL",
+            "contribution_count": "6 contributions",
+            "title": "Refined Comfort Meets Perfect ServiceOFFICIAL",
+            "content": "What sets this place apart is how they make excellence seem effortless. The rooms are havens of comfort with every amenity thoughtfully placed. The staff moves with quiet efficiency while maintaining a warm, personal touch. The entire property exudes an atmosphere of refined ele",
+            "date": "Written 12/03/24",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "15684468",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/16/14/ed/1a/20190111-170927-largejpg.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/15/f2/3a/d7/peranakan-houses-singapur.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/15/f2/3a/cc/peranakan-houses-singapur.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2b/b7/36/1e/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2b/b7/36/1d/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2b/b7/36/1c/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2b/b7/36/1b/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2b/b7/36/1a/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2b/b7/36/19/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2b/b7/36/18/caption.jpg"
+    ],
+    "title": "Peranakan Houses",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/37/d6/f3/phutty.jpg?w={width}&h={height}&s=1",
+            "name": "phutty",
+            "home_town": "Tallinn, Estonia",
+            "contribution_count": "1,408 contributions",
+            "title": "Colourful rows of houses in the Joo Chiat district that make for great photos",
+            "content": "Ridiculously photogenic, these row houses are a must-see if you're exploring the characterful Joo Chiat district, although it's worth bearing in mind that people do live in them, and that they and other locals do need to use the footpaths as well - they're not just there for people to take pictures from, or worse to spend ages posing for photos and videos for their Insta accounts or whatever.",
+            "date": "Written 01/19/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg?w={width}&h={height}&s=1",
+            "name": "Claude M",
+            "home_town": null,
+            "contribution_count": "31 contributions",
+            "title": "Beautiful houses, a must while in Sigapore.",
+            "content": "The houses are very unique and cute. We just took a Grab (Uber) to get there.  Get your camera ready to take amazing pictures. Grab a bite to eat after your visit. There is a great authentic food court.<br />Enjoy your visit and the food.",
+            "date": "Written 08/20/24",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg?w={width}&h={height}&s=1",
+            "name": "Russell3939",
+            "home_town": "Castle Rock, CO",
+            "contribution_count": "1,024 contributions",
+            "title": "Pretty colors, worth a quick stop",
+            "content": "We found the architecture and colors to be lovely. This is worth a quick stop if you are in the area. There is a nice park at the end of the street if you need a place to cool off after a long day. These are the house featured on the plastic cups being sold at Starbucks.",
+            "date": "Written 03/26/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b7/36/16/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b7/36/17/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b7/36/18/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b7/36/19/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b7/36/1a/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b7/36/1b/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b7/36/1c/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b7/36/1d/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b7/36/1e/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        }
+    ]
+}
+
+{
+    "saveId": "8077179",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/11/ec/5b/45/national-gallery-singapore.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-w/0a/38/fb/c9/national-gallery-singapore.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/24/74/e8/36/at-the-gallery.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/24/74/e8/35/padang-atrium.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/24/74/e8/2c/holding-cells.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/24/74/e8/21/former-supreme-court.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/10/b1/c6/b9/ng-teng-fong-roof-garden.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/10/b1/c6/8e/padang-atrium.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/10/b1/c6/6d/wu-guangzhong-gallery.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/10/b1/c6/41/uob-southeast-asia-library.jpg"
+    ],
+    "title": "National Gallery Singapore",
+    "content": "National Gallery Singapore is a leading visual arts institution in Southeast Asia which oversees the world’s largest public collection of modern art in Singapore and the region. Situated in the heart of the Civic District, the National Gallery Singapore has been beautifully restored and transformed from the former Supreme Court and City Hall buildings into an exciting new visual arts venue.",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/99/c2/1b/kristine-l.jpg?w={width}&h={height}&s=1",
+            "name": "Kristine L",
+            "home_town": null,
+            "contribution_count": "6 contributions",
+            "title": "A Captivating Journey Through Art and History",
+            "content": "The National Gallery Singapore is a must-visit for art and culture enthusiasts. The beautifully restored buildings house an incredible collection of Southeast Asian and Singaporean art, offering a perfect blend of history and creativity. The exhibits are thoughtfully curated, and the architecture itself is stunning. It’s a place where you can immerse yourself in art while enjoying breathtaking views of the city. Highly recommended!",
+            "date": "Written 01/20/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/37/d6/f3/phutty.jpg?w={width}&h={height}&s=1",
+            "name": "phutty",
+            "home_town": "Tallinn, Estonia",
+            "contribution_count": "1,408 contributions",
+            "title": "We've been to art museums all over the world - and this is up there with the best of them",
+            "content": "This sprawling complex offers so much to see that we found several hours had passed almost without us noticing. Staff are incredibly friendly and helpful, there are great places to eat and drink, a nice shop, and amazing architecture. Plus, the art is just so good and so varied, and offers a real insight into Singapore and SE Asia. Highly recommended.",
+            "date": "Written 01/19/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/bc/f3/98/egiptul-p.jpg?w={width}&h={height}&s=1",
+            "name": "Egiptul p",
+            "home_town": null,
+            "contribution_count": "8 contributions",
+            "title": "Impressed by its architecture but not much inside",
+            "content": "I guess this is the type of place  well loved by those who do not care for museums and want to say they visited one. It is an architectural masterpiece and I enjoyed that . Besides that, I found the experience frustrating , there was no flow or sense of direction , hard to tell what your route should be. I am pretty sure I missed something as half the building was an empty space ready to be rented out to Conventions/temporary Exhibitions, etc<br />The art gallery was interesting and I enjoyed some of their classic pieces as well as contemporary art. I guess I was expecting too much ...",
+            "date": "Written 01/19/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "324758",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/13/2a/ac/5a/tiger-balm-gardens.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/12/65/e8/af/the-grand-entrance-archway.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/12/65/e8/d1/virtues-vices-diorama.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/12/65/e8/ce/tiger-s-arch.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/12/65/e8/c3/one-of-our-many-quirky.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/12/65/e8/b8/quirky-sights-are-abound.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/12/65/e8/b3/our-iconic-mermaids-offer.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/12/65/e8/ab/chicken-den.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/8f/3a/78/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/8f/3a/77/caption.jpg"
+    ],
+    "title": "Haw Par Villa",
+    "content": "Haw Par Villa - formerly known as the Tiger Balm Garden – is an 8.5-hectare Asian cultural park, the last of its kind in the world. Built in 1937, Singapore’s largest outdoor art gallery is the brainchild of Aw Boon Haw, millionaire philanthropist and marketing extraordinaire who gifted the world Tiger Balm. The eclectic park is a treasure trove of Asian culture, history, philosophy and religion – quirky yet enlightening at the same time. Since 2015, it is managed Journeys Pte Ltd, an award-winning heritage specialist passionate in preserving and bringing the heritage gem to greater heights.",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ec/96/68/hugenot.jpg?w={width}&h={height}&s=1",
+            "name": "Hugenot",
+            "home_town": "UK",
+            "contribution_count": "521 contributions",
+            "title": "Eccentric home of Tiger Balm",
+            "content": "Well this place was a revelation.  When we arrived the whole place seemed like a deserted 1960s Butlins Holiday Park.  The sculptures in the park are a bit dilapidated but what fun!  We intended to visit Hell's Museum so finding the sculpture park was a bonus.  We were a little unsure about Hell's Museum as we thought it might be too religious/spiritual for us. However, it was the best thing we did in Singapore.  The tour explained different religions' views on death and the afterlife and the visit to the models of the Ten Courts of Hell was absolutely fascinating.  Entrance to the museum gives you 10% discount in the cafe.  It's probably a \"Marmite\" attraction but we loved it.",
+            "date": "Written 01/14/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8f/3a/78/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8f/3a/77/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8f/3a/76/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8f/3a/75/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/97/c2/40/caption.jpg?w={width}&h={height}&s=1",
+            "name": "Julia N",
+            "home_town": "Sydney, Australia",
+            "contribution_count": "39 contributions",
+            "title": "A unique and amazing experience",
+            "content": "An extremely interesting and different experience, unique and different, the Hells museum tour was extremely informative and different, well worth the price of the tickets at $20, the free guided tour given by Joanne was an added bonus",
+            "date": "Written 01/05/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/7d/fc/fd/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/7d/fc/fb/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/7d/fc/fa/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg?w={width}&h={height}&s=1",
+            "name": "Senn H",
+            "home_town": null,
+            "contribution_count": "47 contributions",
+            "title": "I suggest an hour to an hour and a half because it's rather large.",
+            "content": "My first action was to enter Ten Courts of Hell, where I was horrified by the graphic sights showing the extremely cruel outcomes of sinners. Extremely graphic picture, but fascinating how different approaches are taken to dealing with offenders. If you have the courage, you may gaze into the mirror of truth and see how you appeared at the time, whether you were a saint or wicked. I was obviously bad for some reason since my reflection looked like the face of the devil. There is a wealth of iconography that illustrates several Chinese mythological tales, making it a wonderful place to take children to study.",
+            "date": "Written 12/05/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/45/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/44/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/43/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/42/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/41/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/40/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/3f/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/3e/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/3d/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/3c/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/3b/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/61/3a/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        }
+    ]
+}
+
+{
+    "saveId": "2371793",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-w/05/6b/a1/a7/tiong-bahru-estate.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/6b/0d/4e/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/6b/0d/4a/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/6b/0d/47/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/6b/0d/45/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/6b/0d/43/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/6b/0d/41/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/6b/0d/3f/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/6b/0d/3e/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/6b/0d/3d/caption.jpg"
+    ],
+    "title": "Tiong Bahru Estate",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/1e/40/be/wonghy17.jpg?w={width}&h={height}&s=1",
+            "name": "WongHY17",
+            "home_town": "Subang Jaya, Malaysia",
+            "contribution_count": "439 contributions",
+            "title": "Hari Raja Haji 2024",
+            "content": "As the first public housing project, Tiong Bahru has a lower population density compared to the newer housing projects.<br />I made a visit to this charming estate on Raya Haji.<br />Fortunately it was a clear day and Tiong Bahru's whitewashed, three-storey apartments looked splendid in the sunlight.<br /><br />I didn't manage to find many murals, but I will be back to look for them!",
+            "date": "Written 07/07/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/c6/62/f5/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/c6/62/f6/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/c6/62/f7/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/9d/19/31/bartyjy.jpg?w={width}&h={height}&s=1",
+            "name": "bartyjy",
+            "home_town": "Sydney, Australia",
+            "contribution_count": "321 contributions",
+            "title": "Art deco paradise of beautiful architecture and Gardens.",
+            "content": "This is the first social housing project in Singapore and an exquisitely well maintained art deco delight. <br /><br />Havelock station is actually much closer to where all the action is than Tiong Bahru station itself. I noticed some commentary about it being hard to find. The hawker centre market is on every map. If you head toward it it’s then surrounded by this charming estate of beautifully maintained deco buildings. This was one of my top picks. It’s also quite different to the equally as pretty, but maybe more obvious chophouse / Peranakan house areas. Asia’s answer to Miami South Beach!",
+            "date": "Written 04/03/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/c7/31/85/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg?w={width}&h={height}&s=1",
+            "name": "kkinmanli",
+            "home_town": "Sydney, Australia",
+            "contribution_count": "6 contributions",
+            "title": "tide of changes",
+            "content": "the roast duck with rice is still sold for SD4,<br />but the amount is markedly smaller than<br />before Covid. Moreover, my favourite stall<br />has gone. the new comer sell something else<br />at higher prices.",
+            "date": "Written 08/18/23",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "301583",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg?w={width}&h={height}&s=1",
+            "name": "charlotte",
+            "home_town": "Sedona, AZ",
+            "contribution_count": "61 contributions",
+            "title": "A step back in time",
+            "content": "Raffles is legendary and for a reason. It’s worth a visit just for the architecture and gardens but my husband and I visited the Long Bar for a Singapore Sling and the atmosphere. Reservations aren’t taken for the Long Bar and we weren’t dressed formally enough for high tea. The drinks were great but the vibe was what made it worth it.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/e0/f2/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7a/f4/48/kevev.jpg?w={width}&h={height}&s=1",
+            "name": "KevEv",
+            "home_town": "Kingston-upon-Hull, UK",
+            "contribution_count": "71 contributions",
+            "title": "The Long Bar is a fabulous experience.",
+            "content": "We were lucky enough to get a table for four in Raffles with just a 3 minute wait. When we left they were queuing all the way to the staircase. You can tell by the queues how popular this place is. It didn’t disappoint. First class service and a first class atmosphere, including the peanut shell covered floors. Traditional Singapore Slings, for the girls and a Tiger beer for our son and myself. It’s pricey of course, but it’s worth it to take in the character of such an iconic place like the Long Bar with all irs history. It’s taken me a while to get in there after so many visits to Singapore, but I’m glad I did. A thoroughly enjoyable experience.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/db/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dc/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dd/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/de/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/df/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg?w={width}&h={height}&s=1",
+            "name": "Dominik M",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Great hospitality from Balwinder - awesome experience!",
+            "content": "Had an amazing experience here! Shoutout to Balwinder – he was super helpful and friendly. He personally escorted me to the Long Bar when I asked for directions and even gave me a quick rundown of the hotel’s history, which was a nice touch.<br /><br />Tried the Singapore Sling, and honestly, it was worth the hype and the price – really enjoyed it. We even clicked a photo together afterward, which made the visit extra memorable. He also assisted me in getting a taxi to my destination. The overall vibe, the ambience, and the staff’s attitude were all top-notch. Definitely recommend stopping by if you’re in Singapore!",
+            "date": "Written 01/19/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "4341475",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/24/8f/19/katie-b.jpg?w={width}&h={height}&s=1",
+            "name": "Katie B",
+            "home_town": "London, UK",
+            "contribution_count": "16 contributions",
+            "title": "Complete care",
+            "content": "From the moment we arrived at reception, we received fantastic care from the Amoy team. They made us feel so welcome in a new city.<br /><br />The room was spacious and comfortable, with everything we needed. There was some noise from the street below, but it was almost like white noise rather than individual sounds, and we had no trouble sleeping through it (jetlag may have played a role there).<br /><br />We really enjoyed the location. MRT stations are an easy walk away, and there are plenty of places to eat. The breakfast deal with Genius Central was simple and the food was delicious. Thank you very much to everyone at Amoy Hotel!",
+            "date": "Written 01/24/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/38/19/16/rosicee.jpg?w={width}&h={height}&s=1",
+            "name": "rosicee",
+            "home_town": "Woking, UK",
+            "contribution_count": "14 contributions",
+            "title": "This hotel is a hidden gem in Singapore!",
+            "content": "This hotel was one of the best hotels I’ve ever stayed at. The incredibly friendly and attentive staff were a stand out - they remembered every little thing and were SO unbelievably kind and welcoming (to the extent where they remembered it was my birthday week and presented me with a surprise cake upon check in!). The rooms are fairly small but beautifully decorated, come with great amenities and are relatively quiet, and the location was superb for metro access, restaurants and our new favourite Lau Pa Sat. Breakfast is a choice of two restaurants next door and was also lovely - we’d recommend the smashed avocado toast at Genius Central. Lastly, the hotel itself is gorgeous - it sits within a heritage museum and is such a unique and special building. We feel incredibly lucky to have found such a gem, and will absolutely be returning when we’re next in Singapore. Special shout out to Shei",
+            "date": "Written 09/04/24",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/9c/default-avatar-2020-14.jpg?w={width}&h={height}&s=1",
+            "name": "Matthieu FERRARY",
+            "home_town": null,
+            "contribution_count": "3 contributions",
+            "title": "A wonderful experience",
+            "content": "I was warmfully welcomed by the team, which was very helpful and kind. Everything was great during my one night stay here at AMOY Singapore. I had a very nice room and a great breakfast.<br />The hotel is located very close to the city center which makes it ideal.",
+            "date": "Written 01/22/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "301583",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg?w={width}&h={height}&s=1",
+            "name": "charlotte",
+            "home_town": "Sedona, AZ",
+            "contribution_count": "61 contributions",
+            "title": "A step back in time",
+            "content": "Raffles is legendary and for a reason. It’s worth a visit just for the architecture and gardens but my husband and I visited the Long Bar for a Singapore Sling and the atmosphere. Reservations aren’t taken for the Long Bar and we weren’t dressed formally enough for high tea. The drinks were great but the vibe was what made it worth it.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/e0/f2/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/7a/f4/48/kevev.jpg?w={width}&h={height}&s=1",
+            "name": "KevEv",
+            "home_town": "Kingston-upon-Hull, UK",
+            "contribution_count": "71 contributions",
+            "title": "The Long Bar is a fabulous experience.",
+            "content": "We were lucky enough to get a table for four in Raffles with just a 3 minute wait. When we left they were queuing all the way to the staircase. You can tell by the queues how popular this place is. It didn’t disappoint. First class service and a first class atmosphere, including the peanut shell covered floors. Traditional Singapore Slings, for the girls and a Tiger beer for our son and myself. It’s pricey of course, but it’s worth it to take in the character of such an iconic place like the Long Bar with all irs history. It’s taken me a while to get in there after so many visits to Singapore, but I’m glad I did. A thoroughly enjoyable experience.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/db/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dc/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/dd/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/de/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/aa/df/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg?w={width}&h={height}&s=1",
+            "name": "Dominik M",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Great hospitality from Balwinder - awesome experience!",
+            "content": "Had an amazing experience here! Shoutout to Balwinder – he was super helpful and friendly. He personally escorted me to the Long Bar when I asked for directions and even gave me a quick rundown of the hotel’s history, which was a nice touch.<br /><br />Tried the Singapore Sling, and honestly, it was worth the hype and the price – really enjoyed it. We even clicked a photo together afterward, which made the visit extra memorable. He also assisted me in getting a taxi to my destination. The overall vibe, the ambience, and the staff’s attitude were all top-notch. Definitely recommend stopping by if you’re in Singapore!",
+            "date": "Written 01/19/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "4341475",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/24/8f/19/katie-b.jpg?w={width}&h={height}&s=1",
+            "name": "Katie B",
+            "home_town": "London, UK",
+            "contribution_count": "16 contributions",
+            "title": "Complete care",
+            "content": "From the moment we arrived at reception, we received fantastic care from the Amoy team. They made us feel so welcome in a new city.<br /><br />The room was spacious and comfortable, with everything we needed. There was some noise from the street below, but it was almost like white noise rather than individual sounds, and we had no trouble sleeping through it (jetlag may have played a role there).<br /><br />We really enjoyed the location. MRT stations are an easy walk away, and there are plenty of places to eat. The breakfast deal with Genius Central was simple and the food was delicious. Thank you very much to everyone at Amoy Hotel!",
+            "date": "Written 01/24/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/38/19/16/rosicee.jpg?w={width}&h={height}&s=1",
+            "name": "rosicee",
+            "home_town": "Woking, UK",
+            "contribution_count": "14 contributions",
+            "title": "This hotel is a hidden gem in Singapore!",
+            "content": "This hotel was one of the best hotels I’ve ever stayed at. The incredibly friendly and attentive staff were a stand out - they remembered every little thing and were SO unbelievably kind and welcoming (to the extent where they remembered it was my birthday week and presented me with a surprise cake upon check in!). The rooms are fairly small but beautifully decorated, come with great amenities and are relatively quiet, and the location was superb for metro access, restaurants and our new favourite Lau Pa Sat. Breakfast is a choice of two restaurants next door and was also lovely - we’d recommend the smashed avocado toast at Genius Central. Lastly, the hotel itself is gorgeous - it sits within a heritage museum and is such a unique and special building. We feel incredibly lucky to have found such a gem, and will absolutely be returning when we’re next in Singapore. Special shout out to Shei",
+            "date": "Written 09/04/24",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/9c/default-avatar-2020-14.jpg?w={width}&h={height}&s=1",
+            "name": "Matthieu FERRARY",
+            "home_town": null,
+            "contribution_count": "3 contributions",
+            "title": "A wonderful experience",
+            "content": "I was warmfully welcomed by the team, which was very helpful and kind. Everything was great during my one night stay here at AMOY Singapore. I had a very nice room and a great breakfast.<br />The hotel is located very close to the city center which makes it ideal.",
+            "date": "Written 01/22/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "2138895",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0a/88/c8/artscience-museum.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0d/46/41/oculus-in-artscience.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0d/46/40/artscience-museum.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0d/46/3f/future-world-where-art.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0a/88/cb/artscience-museum.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0a/88/ca/artscience-museum.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0a/88/c9/artscience-museum.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0a/86/4c/future-world-where-art.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0a/86/4b/future-world-where-art.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/0a/86/4a/future-world-where-art.jpg"
+    ],
+    "title": "ArtScience Museum at Marina Bay Sands",
+    "content": "ArtScience Museum is an iconic cultural landmark in Singapore and the cultural component of Marina Bay Sands. With 21 gallery spaces, ArtScience Museum has held large-scale exhibitions by some of the world’s major artists, including Leonardo da Vinci, M.C. Escher, Salvador Dalí, Andy Warhol and Vincent Van Gogh since opening in February 2011. In addition, we have presented significant exhibitions that explore aspects of science including including particle physics, big data, robotics, palaeontology, marine biology and space exploration.",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f6/0d/default-avatar-2020-34.jpg?w={width}&h={height}&s=1",
+            "name": "Kaitlin S",
+            "home_town": null,
+            "contribution_count": "36 contributions",
+            "title": "Not worth it for the price, but pleasant",
+            "content": "I wouldn’t spend $40 SGD on the experience, but there was some nice stuff to see. Probably more worthwhile for kids, who would love the little tunnels and interactive drawing elements",
+            "date": "Written 01/23/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/45/2b/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/6c/2a/64/deirdre-s.jpg?w={width}&h={height}&s=1",
+            "name": "Dedge",
+            "home_town": "Lower Hutt, New Zealand",
+            "contribution_count": "234 contributions",
+            "title": "Studio Ghilbi ",
+            "content": "Went for the Studio Ghilbi exhibition mainly for teen son. We all enjoyed it a lot. Exhibits were stunning and very creative. Prices in the gift shop however were exorbitant ",
+            "date": "Written 01/16/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/92/4d/a3/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/92/4d/a4/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/92/4d/a5/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/92/4d/a6/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg?w={width}&h={height}&s=1",
+            "name": "thomaswcrane",
+            "home_town": "Yuaipa",
+            "contribution_count": "19 contributions",
+            "title": "03-JAN-2025 VISIT",
+            "content": "Numerous visually appealing and   some interactive exhibits, including a VR experience. The museum and exhibits are very kid-friendly.<br /><br />I'd like to single out Jarred for accommodating me when I was unable to make the scheduled time for one of the exhibits. He ensured I was still able to experience the museum to its fullest.",
+            "date": "Written 01/05/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/7e/72/40/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/7e/72/3f/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        }
+    ]
+}
+
+{
+    "saveId": "7736497",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg?w={width}&h={height}&s=1",
+            "name": "GSTraveller200",
+            "home_town": "San Diego, CA",
+            "contribution_count": "110 contributions",
+            "title": "Fabulous Stay in the Heart of Singapore",
+            "content": "We picked the JW Marriott for a post cruise stay in Singapore for a few days.  The JW did not disappoint.  While we are frequent visitors to Bonvoy properties, the staff here are true masters of hospitality and made us feel so welcomed.<br /><br />The hotel is excellently located near many of the tourist sites and all the rest are reached easily from the metro station located below the hotel.  Along with the metro there are restaurants and several connected malls which can help you stay dry if it rains.<br /><br />Our room was very clean and well kept.  It’s very easy to get a good night’s sleep as the bed was really comfortable.<br /><br />When the weather’s right, head up to the 18th floor where the pool and casual bar/restaurant are located for impressive views of the city.  They also have pool and foosball tables that you can use.<br /><br />We had access to the executive lounge on the 2nd floor.  While it gets a lot of use, it’s a very nice amenity to have with breakfast, snacks and dinner options available along with evening cocktails.  What set the lounge apart for me was once again the staff.  Once again they were so welcoming, friendly and service oriented.<br /><br />I truly want to return to the JW Marriott South Beach on my next trip to Singapore.  I don’t think you’ll be disappointed either if you give it a try.",
+            "date": "Written 01/18/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/7b/default-avatar-2020-56.jpg?w={width}&h={height}&s=1",
+            "name": "Gail M",
+            "home_town": "Chesterfield, UK",
+            "contribution_count": "72 contributions",
+            "title": "Excellent experience",
+            "content": "Our second time in this beautiful hotel and it didn’t disappoint. Excellent location close to marina bay, raffles and next door to subway station. The executive lounge is amazing and all the staff from reception to housekeeping are helpful and welcoming. There is a decent gym and 2 swimming pools. We will return!",
+            "date": "Written 01/17/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/40/7e/a3/fmcsbu.jpg?w={width}&h={height}&s=1",
+            "name": "fmcsbu",
+            "home_town": "Newport Beach, CA",
+            "contribution_count": "91 contributions",
+            "title": "Excellent, one of the best hotels in Singapore",
+            "content": "Beautiful hotel, close to every attractions, walking distance to many. Close to all subway stations, though can be confusing! Excellent staff, service. The club lounge is amazing, breakfast, evening tea and afternoon tea! We shall definitely stay at this hotel again!",
+            "date": "Written 01/14/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "1770798",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg?w={width}&h={height}&s=1",
+            "name": "Fernandus",
+            "home_town": "California",
+            "contribution_count": "1 contribution",
+            "title": "Not staying in the hotel, but the staff was great",
+            "content": "I hope this review reaches the right people. On our last day in Singapore, my family and I had the pleasure of visiting Marina Bay, where we met a truly exceptional young lady Elena in the lobby. From the moment she approached us, we were struck by her warmth and kindness. She noticed we had luggage and, without hesitation, asked if we needed any assistance. We explained that we were just resting before heading to the airport, and Elena not only listened to us attentively but also engaged in a lovely conversation about the hotel and our first experience in Singapore. She was incredibly knowledgeable and made us feel truly welcome.<br /><br />Her thoughtfulness didn’t stop there—she gave us a beautiful silver magnet as a souvenir, which was such a kind and generous gesture that we’ll always remember.<br /><br />Elena’s professionalism, kindness, and genuine care for guests are exactly the qualities that make a stay memorable. She is a real asset to the hotel, and I sincerely hope she receives the recognition she deserves.<br /><br />I would absolutely love to return to Singapore and stay at this hotel, especially if this is the standard of service that’s offered to all guests.<br /><br />The shopping and rooftop bars at Marina Bay were also outstanding, providing endless options for an unforgettable experience!<br /><br />If you’re visiting Singapore, this is a must-visit destination.",
+            "date": "Written 01/24/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/6a/default-avatar-2020-47.jpg?w={width}&h={height}&s=1",
+            "name": "Traveler796764",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Gym",
+            "content": "Fantastic experience.  Good mix of machines.  They have a row of machines that target each body parts. So you just have to gym off in order.   <br />Friendly staff that will show you the different parts of the gym.  There is a ready flow of ice water too. Nice environment.  Uma , alif , Roselyn , Ben  , affa , Chanok and Lucyare really helpful.",
+            "date": "Written 01/23/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg?w={width}&h={height}&s=1",
+            "name": "Anna A",
+            "home_town": null,
+            "contribution_count": "5 contributions",
+            "title": "Pilates with a view",
+            "content": "We attended the Pilates class at Marina Bay Sands. The instructor made sure we can all follow her instructions and made us feel comfortable though out the session. We were late but the staff still accommodates us. Highly recommended experience. Just make sure to get there at least 20 mins before the session if it's your first time going to that part of MBS.",
+            "date": "Written 01/23/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/99/0c/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/99/0d/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        }
+    ]
+}
+
+{
+    "saveId": "7736497",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg?w={width}&h={height}&s=1",
+            "name": "GSTraveller200",
+            "home_town": "San Diego, CA",
+            "contribution_count": "110 contributions",
+            "title": "Fabulous Stay in the Heart of Singapore",
+            "content": "We picked the JW Marriott for a post cruise stay in Singapore for a few days.  The JW did not disappoint.  While we are frequent visitors to Bonvoy properties, the staff here are true masters of hospitality and made us feel so welcomed.<br /><br />The hotel is excellently located near many of the tourist sites and all the rest are reached easily from the metro station located below the hotel.  Along with the metro there are restaurants and several connected malls which can help you stay dry if it rains.<br /><br />Our room was very clean and well kept.  It’s very easy to get a good night’s sleep as the bed was really comfortable.<br /><br />When the weather’s right, head up to the 18th floor where the pool and casual bar/restaurant are located for impressive views of the city.  They also have pool and foosball tables that you can use.<br /><br />We had access to the executive lounge on the 2nd floor.  While it gets a lot of use, it’s a very nice amenity to have with breakfast, snacks and dinner options available along with evening cocktails.  What set the lounge apart for me was once again the staff.  Once again they were so welcoming, friendly and service oriented.<br /><br />I truly want to return to the JW Marriott South Beach on my next trip to Singapore.  I don’t think you’ll be disappointed either if you give it a try.",
+            "date": "Written 01/18/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/7b/default-avatar-2020-56.jpg?w={width}&h={height}&s=1",
+            "name": "Gail M",
+            "home_town": "Chesterfield, UK",
+            "contribution_count": "72 contributions",
+            "title": "Excellent experience",
+            "content": "Our second time in this beautiful hotel and it didn’t disappoint. Excellent location close to marina bay, raffles and next door to subway station. The executive lounge is amazing and all the staff from reception to housekeeping are helpful and welcoming. There is a decent gym and 2 swimming pools. We will return!",
+            "date": "Written 01/17/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/40/7e/a3/fmcsbu.jpg?w={width}&h={height}&s=1",
+            "name": "fmcsbu",
+            "home_town": "Newport Beach, CA",
+            "contribution_count": "91 contributions",
+            "title": "Excellent, one of the best hotels in Singapore",
+            "content": "Beautiful hotel, close to every attractions, walking distance to many. Close to all subway stations, though can be confusing! Excellent staff, service. The club lounge is amazing, breakfast, evening tea and afternoon tea! We shall definitely stay at this hotel again!",
+            "date": "Written 01/14/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "7736497",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg?w={width}&h={height}&s=1",
+            "name": "GSTraveller200",
+            "home_town": "San Diego, CA",
+            "contribution_count": "110 contributions",
+            "title": "Fabulous Stay in the Heart of Singapore",
+            "content": "We picked the JW Marriott for a post cruise stay in Singapore for a few days.  The JW did not disappoint.  While we are frequent visitors to Bonvoy properties, the staff here are true masters of hospitality and made us feel so welcomed.<br /><br />The hotel is excellently located near many of the tourist sites and all the rest are reached easily from the metro station located below the hotel.  Along with the metro there are restaurants and several connected malls which can help you stay dry if it rains.<br /><br />Our room was very clean and well kept.  It’s very easy to get a good night’s sleep as the bed was really comfortable.<br /><br />When the weather’s right, head up to the 18th floor where the pool and casual bar/restaurant are located for impressive views of the city.  They also have pool and foosball tables that you can use.<br /><br />We had access to the executive lounge on the 2nd floor.  While it gets a lot of use, it’s a very nice amenity to have with breakfast, snacks and dinner options available along with evening cocktails.  What set the lounge apart for me was once again the staff.  Once again they were so welcoming, friendly and service oriented.<br /><br />I truly want to return to the JW Marriott South Beach on my next trip to Singapore.  I don’t think you’ll be disappointed either if you give it a try.",
+            "date": "Written 01/18/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/7b/default-avatar-2020-56.jpg?w={width}&h={height}&s=1",
+            "name": "Gail M",
+            "home_town": "Chesterfield, UK",
+            "contribution_count": "72 contributions",
+            "title": "Excellent experience",
+            "content": "Our second time in this beautiful hotel and it didn’t disappoint. Excellent location close to marina bay, raffles and next door to subway station. The executive lounge is amazing and all the staff from reception to housekeeping are helpful and welcoming. There is a decent gym and 2 swimming pools. We will return!",
+            "date": "Written 01/17/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/40/7e/a3/fmcsbu.jpg?w={width}&h={height}&s=1",
+            "name": "fmcsbu",
+            "home_town": "Newport Beach, CA",
+            "contribution_count": "91 contributions",
+            "title": "Excellent, one of the best hotels in Singapore",
+            "content": "Beautiful hotel, close to every attractions, walking distance to many. Close to all subway stations, though can be confusing! Excellent staff, service. The club lounge is amazing, breakfast, evening tea and afternoon tea! We shall definitely stay at this hotel again!",
+            "date": "Written 01/14/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "1307604",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/56/5e/30/harshadpophale.jpg?w={width}&h={height}&s=1",
+            "name": "Harshad Pophale",
+            "home_town": null,
+            "contribution_count": "33 contributions",
+            "title": "One of the best service",
+            "content": "We stayed here for x’mas and received one of the best service ever in this beautiful property. Specially since we were approx 17 people , we have received specially curated Indian menu in breakfast specially prepared for us. Never experienced such things anywhere else. All 5 stars to this hotel in every category including rooms ambience service quality, it’s just too perfect !!",
+            "date": "Written 01/08/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/84/a2/af/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/eb/default-avatar-2020-27.jpg?w={width}&h={height}&s=1",
+            "name": "Mubashir A",
+            "home_town": null,
+            "contribution_count": "6 contributions",
+            "title": "Most Attentive Staff",
+            "content": "Have been to many luxury hotels like this one but it is one of the best in the world for a reason. Their staff, their attention to detail is outstanding. Every small thing which you want in your room was taken care of. 24/7 available and really cooperative staff adds to the experience. Do try their spa as well. Had one of the best treatments there.",
+            "date": "Written 03/04/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/10/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/0e/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/0f/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg?w={width}&h={height}&s=1",
+            "name": "Mercedes D",
+            "home_town": "Tallahassee, FL",
+            "contribution_count": "6 contributions",
+            "title": "Refined Comfort Meets Perfect ServiceOFFICIAL",
+            "content": "What sets this place apart is how they make excellence seem effortless. The rooms are havens of comfort with every amenity thoughtfully placed. The staff moves with quiet efficiency while maintaining a warm, personal touch. The entire property exudes an atmosphere of refined ele",
+            "date": "Written 12/03/24",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "2149128",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-w/05/d9/0e/f0/gardens-by-the-bay.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/07/be/ad/12/gardens-by-the-bay.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/04/01/55/ee/gardens-by-the-bay.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/07/be/b0/39/gardens-by-the-bay.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/07/be/b0/31/gardens-by-the-bay.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-p/07/be/b0/2c/gardens-by-the-bay.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/07/be/b0/29/gardens-by-the-bay.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/07/be/b0/23/gardens-by-the-bay.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/07/be/b0/1d/gardens-by-the-bay.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/07/be/b0/16/gardens-by-the-bay.jpg"
+    ],
+    "title": "Gardens by the Bay",
+    "content": "An integral part of Singapore's \"City in a Garden\" vision, Gardens by the Bay spans a total of 101 hectares of prime land at the heart of Singapore's new downtown - Marina Bay. Comprising three waterfront gardens - Bay South, Bay East and Bay Central - Gardens by the Bay will be a showcase of horticulture and garden artistry that will bring the world of plants to Singapore and present Singapore to the World.",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/1d/5c/81/hstevens282.jpg?w={width}&h={height}&s=1",
+            "name": "Hstevens282",
+            "home_town": "Leven, UK",
+            "contribution_count": "321 contributions",
+            "title": "Beautiful, extensive and free!",
+            "content": "We visited the gardens as the guide book recommended it and it was not far from our hotel. It is beautifully lush with many different trees, shrubs, flowers and plants from all round the world and is divided into different sections like the fantasy garden, Japanese garden etc. The supertree grove in the middle is superb. <br />While the gardens are free and could easily take you 2-3 hours to explore there are 3 massive exhibition domes you can pay to visit. We only went into the cloud forest done which was the cheapest of the 3. It recreates cloud rainforest and is quite damp and misty but very interesting. They have a fantastic variety of orchids which are all very beautiful and very varied. The vegetation is very lush and prolific just as in the park itself. <br />  There are numerous toilets, all excellent, and numerous eating places. <br />  In the evening there is a free light show at 7:45 and 8:45 but, unfortunately we were unable to see it. I would highly recommend the gardens-a “must see” in my opinion.",
+            "date": "Written 01/23/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/88/bb/ce/caption.jpg?w={width}&h={height}&s=1",
+            "name": "Armağan A.",
+            "home_town": "Ho Chi Minh City, Vietnam",
+            "contribution_count": "7,631 contributions",
+            "title": "Beautiful Gardens with Amazing Cloud Forest",
+            "content": "My partner and I are visiting from Saigon. This is truly an incredible experience, no amount of photos can do this place justice. This has been our happiest place to visit. If like us you love nature, you will find yourself in heaven here. We truly loved our time walking through the Gardens and the Cloud Forest. There were many places where we could just sit down and just enjoy the beauty of nature. My partner especially was super happy as we saw lots of plants that we had never ever seen in real life before.<br /><br />The AV presentation on the massive screen towards the end of the Cloud Forest was very sobering and everyone needs to see what aa 5 degree increase in temperature will do. Everyone needs to see this.<br /><br />For us, being here I think, is a big highlight of our Singapore holiday.",
+            "date": "Written 01/22/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a0/de/7b/additional-photos-from.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a0/de/7a/additional-photos-from.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a0/de/7c/additional-photos-from.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a0/de/7d/additional-photos-from.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a0/de/7f/additional-photos-from.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a0/de/81/additional-photos-from.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a0/de/82/additional-photos-from.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b1/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b0/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/af/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/ae/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/ad/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/ac/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/ab/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/aa/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/a9/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/a8/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/a7/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/a6/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/d8/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/d7/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/d6/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/d5/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/d4/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/d3/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/d2/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/d1/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/d0/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/cf/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/ce/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/cd/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/cc/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/cb/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/ca/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/c9/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/c8/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/c7/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/c6/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/c5/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/c3/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/c2/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/c1/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/c0/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/bf/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/be/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/bd/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/bc/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/bb/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/ba/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b9/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b8/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b7/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b6/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b5/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b4/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b3/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/34/b2/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/a0/de/79/additional-photos-from.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8b/34/0b/caption.jpg?w={width}&h={height}&s=1",
+            "name": "WineDinenVacay",
+            "home_town": "Washington DC, DC",
+            "contribution_count": "269 contributions",
+            "title": "A Beautiful Garden by the Bay with stunning views all around",
+            "content": "This is a Beautiful garden with so much to see from both inside and outside. Highly recommend to get the ticket for full access so you can check out all 7 levels in the dome and the garden outside. <br /><br />This place is good to visit rain or shine, but with more outside accessibility during sunny days.<br />There are coffee and light bite can be purchased before going inside the dome. <br /><br />We didn’t really interact with the staff since directions are very clear throughout, so could comment on the service quality. <br /><br />Definitely recommend to spend half day here either for the daylight scene or evening light show.",
+            "date": "Written 01/21/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/0b/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/0c/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/0d/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/0e/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/0f/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/10/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/11/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/13/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/14/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/15/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/16/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/17/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/18/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/19/fd/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/19/fe/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/19/ff/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/00/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/01/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/02/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/03/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/04/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/05/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/06/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/09/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9d/1a/0a/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        }
+    ]
+}
+
+{
+    "saveId": "1307604",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/56/5e/30/harshadpophale.jpg?w={width}&h={height}&s=1",
+            "name": "Harshad Pophale",
+            "home_town": null,
+            "contribution_count": "33 contributions",
+            "title": "One of the best service",
+            "content": "We stayed here for x’mas and received one of the best service ever in this beautiful property. Specially since we were approx 17 people , we have received specially curated Indian menu in breakfast specially prepared for us. Never experienced such things anywhere else. All 5 stars to this hotel in every category including rooms ambience service quality, it’s just too perfect !!",
+            "date": "Written 01/08/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/84/a2/af/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/eb/default-avatar-2020-27.jpg?w={width}&h={height}&s=1",
+            "name": "Mubashir A",
+            "home_town": null,
+            "contribution_count": "6 contributions",
+            "title": "Most Attentive Staff",
+            "content": "Have been to many luxury hotels like this one but it is one of the best in the world for a reason. Their staff, their attention to detail is outstanding. Every small thing which you want in your room was taken care of. 24/7 available and really cooperative staff adds to the experience. Do try their spa as well. Had one of the best treatments there.",
+            "date": "Written 03/04/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/10/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/0e/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/8d/b3/0f/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg?w={width}&h={height}&s=1",
+            "name": "Mercedes D",
+            "home_town": "Tallahassee, FL",
+            "contribution_count": "6 contributions",
+            "title": "Refined Comfort Meets Perfect ServiceOFFICIAL",
+            "content": "What sets this place apart is how they make excellence seem effortless. The rooms are havens of comfort with every amenity thoughtfully placed. The staff moves with quiet efficiency while maintaining a warm, personal touch. The entire property exudes an atmosphere of refined ele",
+            "date": "Written 12/03/24",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "1770798",
+    "banner_images": [],
+    "title": "",
+    "content": "",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/a7/default-avatar-2020-44.jpg?w={width}&h={height}&s=1",
+            "name": "Fernandus",
+            "home_town": "California",
+            "contribution_count": "1 contribution",
+            "title": "Not staying in the hotel, but the staff was great",
+            "content": "I hope this review reaches the right people. On our last day in Singapore, my family and I had the pleasure of visiting Marina Bay, where we met a truly exceptional young lady Elena in the lobby. From the moment she approached us, we were struck by her warmth and kindness. She noticed we had luggage and, without hesitation, asked if we needed any assistance. We explained that we were just resting before heading to the airport, and Elena not only listened to us attentively but also engaged in a lovely conversation about the hotel and our first experience in Singapore. She was incredibly knowledgeable and made us feel truly welcome.<br /><br />Her thoughtfulness didn’t stop there—she gave us a beautiful silver magnet as a souvenir, which was such a kind and generous gesture that we’ll always remember.<br /><br />Elena’s professionalism, kindness, and genuine care for guests are exactly the qualities that make a stay memorable. She is a real asset to the hotel, and I sincerely hope she receives the recognition she deserves.<br /><br />I would absolutely love to return to Singapore and stay at this hotel, especially if this is the standard of service that’s offered to all guests.<br /><br />The shopping and rooftop bars at Marina Bay were also outstanding, providing endless options for an unforgettable experience!<br /><br />If you’re visiting Singapore, this is a must-visit destination.",
+            "date": "Written 01/24/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/6a/default-avatar-2020-47.jpg?w={width}&h={height}&s=1",
+            "name": "Traveler796764",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Gym",
+            "content": "Fantastic experience.  Good mix of machines.  They have a row of machines that target each body parts. So you just have to gym off in order.   <br />Friendly staff that will show you the different parts of the gym.  There is a ready flow of ice water too. Nice environment.  Uma , alif , Roselyn , Ben  , affa , Chanok and Lucyare really helpful.",
+            "date": "Written 01/23/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/9f/default-avatar-2020-16.jpg?w={width}&h={height}&s=1",
+            "name": "Anna A",
+            "home_town": null,
+            "contribution_count": "5 contributions",
+            "title": "Pilates with a view",
+            "content": "We attended the Pilates class at Marina Bay Sands. The instructor made sure we can all follow her instructions and made us feel comfortable though out the session. We were late but the staff still accommodates us. Highly recommended experience. Just make sure to get there at least 20 mins before the session if it's your first time going to that part of MBS.",
+            "date": "Written 01/23/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/99/0c/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/9f/99/0d/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        }
+    ]
+}
+
+{
+    "saveId": "17237163",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/29/d4/40/night-view-of-the-hsbc.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/17/32/67/4e/jewel-changi-airport.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/29/d4/8f/view-of-the-hsbc-rain.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/29/d4/68/garden-terrace-dining.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/29/d4/52/manulife-sky-nets-walking.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/29/d4/36/manulife-sky-nets-bouncing.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/29/d4/19/level-2-north-entrance.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/19/8f/b4/d5/jewel-canopy-park-topiary.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/19/8f/b4/0b/jewel-canopy-park-foggy.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/19/8f/b3/be/jewel-canopy-bridge.jpg"
+    ],
+    "title": "Jewel Changi Airport",
+    "content": "Jewel Changi Airport (Jewel) - Singapore’s brand new multi-dimensional lifestyle destination! Located right in the heart of Singapore Changi Airport, Jewel integrates one-of-a-kind play attractions and extensive landscaping with over 280 exciting shopping and dining concepts, a 130-room hotel and airport facilities for travellers.",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8b/34/0b/caption.jpg?w={width}&h={height}&s=1",
+            "name": "WineDinenVacay",
+            "home_town": "Washington DC, DC",
+            "contribution_count": "269 contributions",
+            "title": "The Jewel is a Must to Visit",
+            "content": "Changi International is one of the nicest international airports. They have priority lounges at every terminal including at the Jewel.<br /><br />The Jewel is located by Terminal 1 , a must stop for the water fall, shopping, food and souvenirs. They have a luggage locker with a fee at the jewel as well. <br /><br />The Changi Lounge at the Jewel is ok, given the location it is at it’s very crowded , people can pay to come in even without any priority status. It comes with limited foods and drinks offered, each customer is allowed to order one hot food from menu and one beer, all additional items will need to pay extra. This lounge does have showers to use for free.<br /><br />Walk to other terminals from the Jewel is short, and easy to navigate.",
+            "date": "Written 01/17/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/47/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/48/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/49/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/4a/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/4b/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/4c/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/4d/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/4e/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/4f/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/50/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/51/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/52/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/53/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/54/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/57/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/58/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/59/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/5a/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/5b/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/5c/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/5d/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/94/b8/5e/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/74/default-avatar-2020-68.jpg?w={width}&h={height}&s=1",
+            "name": "Marcus T",
+            "home_town": null,
+            "contribution_count": "1 contribution",
+            "title": "Super cool waterfall",
+            "content": "This kind of structure and waterfall reminds me of Crazy Rich Asians it is so extravagant. Super clean and fun to marvel at.",
+            "date": "Written 01/14/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/8e/e3/15/domenico-m.jpg?w={width}&h={height}&s=1",
+            "name": "Domenico M",
+            "home_town": "United States",
+            "contribution_count": "5 contributions",
+            "title": "Mindblowing Rain Vortex",
+            "content": "The moment I walked in, I was blown away by the stunning Rain Vortex—the world’s tallest indoor waterfall. It’s surrounded by lush greenery, creating a magical oasis in the middle of the airport.<br /><br />There’s so much to explore, from unique shops and delicious dining options to the Canopy Park, which has fun attractions like the Hedge Maze and Sky Nets. I also loved the indoor garden vibes, making it a relaxing escape even in a bustling space.<br /><br />Jewel isn’t just an airport—it’s a destination on its own. Whether you’re shopping, dining, or just taking in the beautiful sights, there’s something for everyone. I could easily spend hours here. Definitely a must-visit if you’re flying through Singapore!",
+            "date": "Written 01/14/25",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "317426",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/19/0f/b9/07/west-coast-park.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-o/01/44/d8/21/east-coast-park.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1d/72/ff/37/after-sunset-at-east.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/ff/17/67/beach.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/fe/f5/cb/east-coast-park.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/fe/f5/ca/east-coast-park.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/fe/f5/c8/east-coast-park.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/1c/fe/f5/c7/east-coast-park.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/19/0f/b9/07/west-coast-park.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/15/1c/cf/c1/pano-20181021-162238.jpg"
+    ],
+    "title": "East Coast Park",
+    "content": "The city’s most popular stretch of beach always buzzes with activity – even when it’s not playing host to the wide spectrum of sporting events that grace its shores regularly, like the Singapore Marathon and Xtreme Championship.",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/f7/51/8c/franklydavid.jpg?w={width}&h={height}&s=1",
+            "name": "franklydavid",
+            "home_town": "Miri, Malaysia",
+            "contribution_count": "33 contributions",
+            "title": "Eastern Surprise",
+            "content": "Just a short walkaway (or if limited in time bicycle rental is available) from Changi Airport is East Coast Park well worth a visit if you have a few hours to relax before your flight or even a stopover. From Terminal 4 you can saunter first through Jurassic Changi Mile first observing the dinosaur statutes before arriving 20 minutes later at the Park entrance, fresh air and sea breeze greet you with well kept, tree lined and plant laden gardens. After around 20 minutes walking you come to small beach with bbq facilities and toilets /shower facilities. Depending how long you have, you can walk for hours actually arriving in Singapore Centre simply follow the well informed pathway and be impressed by the facilities and amenities including restaurants as you meander your way through the park.",
+            "date": "Written 12/10/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4f/3c/b9/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg?w={width}&h={height}&s=1",
+            "name": "Senn H",
+            "home_town": null,
+            "contribution_count": "47 contributions",
+            "title": "Overall, a great facility.",
+            "content": "Excellent for jogging, and if the weather isn't cloudy, you might be able to see the dawn or sunset.<br /><br />Marine Cove has a large playground and delicious meals. An excellent leisure area for cyclists, families, and other people.<br /><br />However, because there is only one route (route 401) that travels through East Coast Park, getting there by public bus might be a little challenging.",
+            "date": "Written 12/05/24",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/62/5b/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/62/5c/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/46/62/5d/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/38/09/4a/caption.jpg?w={width}&h={height}&s=1",
+            "name": "Teng Xieren",
+            "home_town": "Hong Kong, China",
+            "contribution_count": "8 contributions",
+            "title": "okay",
+            "content": "East Coast Park is the perfect spot to relax and unwind! Beautiful beaches, great cycling paths, and plenty of food options. A peaceful escape from the city.",
+            "date": "Written 11/26/24",
+            "photos": []
+        }
+    ]
+}
+
+{
+    "saveId": "310900",
+    "banner_images": [
+        "https://media-cdn.tripadvisor.com/media/photo-s/11/7f/e5/ce/beautiful-botanic-gardens.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/97/c7/b9/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/97/c7/b8/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/97/c7/b7/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/97/c7/b6/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/97/c7/7f/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/97/c7/7e/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/97/c7/7d/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/97/c7/7c/caption.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/2e/97/ae/e6/caption.jpg"
+    ],
+    "title": "Singapore Botanic Gardens",
+    "content": "This national park is open daily and features beautiful lakes, animals, flowers and plants, including one of the region's first rubber tree orchards.",
+    "reviews": [
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/37/d6/f3/phutty.jpg?w={width}&h={height}&s=1",
+            "name": "phutty",
+            "home_town": "Tallinn, Estonia",
+            "contribution_count": "1,408 contributions",
+            "title": "Probably the best botanical gardens in the world",
+            "content": "You could spend an entire day enjoying these stunning, sprawling gardens, which are so large they're served by separate metro stations on different lines at each end. Given the size, and the typical weather in Singapore, you'll want to make sure you have water and sun protection with you, and possibly snacks as well. That the entire place bar the Orchid Garden is free is amazing, and makes it all the more attractive as a must-see place in Singapore. The only thing I feel there's a lack of is signage, as the place is so big and there's so much to see that it's easy to miss something because it's not clearly enough signposted. Otherwise, the place is a gem.",
+            "date": "Written 01/19/25",
+            "photos": []
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg?w={width}&h={height}&s=1",
+            "name": "Londoner",
+            "home_town": "London, UK",
+            "contribution_count": "116 contributions",
+            "title": "Exceeded my expectations",
+            "content": "Such a beautiful and peaceful garden.  I was always planning on visiting as it’s its clearly a main attraction in Singapore, but I was amazed at how much it exceeded my expectations.  The orchid plaza is the main centre of attraction for tourists but don’t forego walking around the wider gardens.  Clearly a work of art which has matured over the years.  A must for all!",
+            "date": "Written 01/19/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/ae/e5/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/97/ae/e6/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        },
+        {
+            "head_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/68/f3/a1/sea98.jpg?w={width}&h={height}&s=1",
+            "name": "Yaron M",
+            "home_town": "London, UK",
+            "contribution_count": "3,529 contributions",
+            "title": "Beautiful gardens",
+            "content": "Beautiful gardens which extend over vast grounds. There are various walkways to see a vast array of trees and animals. There are several ponds. Very relaxing from the hectic Singapore centre. One recommendation is to take water with you as it is extremely hot. We tried to buy water bottles from 2 vending machines, but they all ran out. Tip, you may drink the tapwater in Singapore and they have water fountains near the toilets. Keep your bottle handy to top up.",
+            "date": "Written 01/18/25",
+            "photos": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/95/9c/0e/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/95/9c/0d/caption.jpg?w={width}&h={height}&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/95/9c/0c/caption.jpg?w={width}&h={height}&s=1"
+            ]
+        }
+    ]
+}
+
